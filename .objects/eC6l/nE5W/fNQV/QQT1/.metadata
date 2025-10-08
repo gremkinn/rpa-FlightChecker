@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Label",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "QQT1LyKGjkmZcP6yLIBFPA",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/QQT1LyKGjkmZcP6yLIBFPA",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/fNQVHM1Psk2_nrJLW2z47Q",
+  "Created": "2025-01-31T09:45:08.0192247Z",
+  "Updated": "2025-01-31T09:45:08.0192247Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Depart",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "Nwj4rW9GvEW-MaLIizOHyg",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/Nwj4rW9GvEW-MaLIizOHyg",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/fNQVHM1Psk2_nrJLW2z47Q",
+  "Created": "2025-01-31T13:45:43.3915033Z",
+  "Updated": "2025-01-31T13:45:43.3915033Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

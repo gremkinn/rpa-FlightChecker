@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Retrieve departure date",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "dMEZI_w7h0i3WO_8OOHUYQ",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/dMEZI_w7h0i3WO_8OOHUYQ",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/fNQVHM1Psk2_nrJLW2z47Q",
+  "Created": "2025-02-01T07:36:43.7495054Z",
+  "Updated": "2025-02-01T07:36:43.7495054Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

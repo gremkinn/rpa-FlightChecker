@@ -1,0 +1,38 @@
+/*Body background and container styles*/
+#body {
+    background-color: white;
+    min-width: 850px;
+    text-align: center;
+    margin: 3%;
+}
+
+/*Paragraph text style*/
+.bodytext {
+    font-family: 'Futura Md BT', sans-serif;
+    color: black;
+}
+
+/*Form styles*/
+.userFormInput {
+    width: 50%;
+    padding: 5px;
+    color: #05203C;
+    border-width: 2px;
+    border-color: #0062E3;
+    font-family: 'Futura Md BT', sans-serif;
+    outline: none;
+    border-style: solid;
+}
+
+/*Button style*/
+#submitbutton {
+    color: white;
+    font-size: 15px;
+    width: 200px;
+    height: 34px;
+    background-color: #0062E3;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'Futura Md BT', sans-serif;
+    border: none;
+}

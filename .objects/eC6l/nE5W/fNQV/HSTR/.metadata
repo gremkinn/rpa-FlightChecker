@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get To Text",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "HSTRRuwCCEm8R1qEVilW-w",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/HSTRRuwCCEm8R1qEVilW-w",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/fNQVHM1Psk2_nrJLW2z47Q",
+  "Created": "2025-02-04T07:39:00.692827Z",
+  "Updated": "2025-02-04T07:39:00.692827Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

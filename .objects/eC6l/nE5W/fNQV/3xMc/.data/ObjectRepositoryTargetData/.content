@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="C7Sh4_xvEU2esnGx6-uKhQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg/transport/flights/sins/pen/250309/250312" CVScreenId="a01923a4-1a7d-4a31-9232-d372b7fcc1ae" CvElementArea="1047, 621, 193, 47" CvType="InputBox" DesignTimeRectangle="1049, 622, 190, 45" DesignTimeScaleFactor="1.25" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl id='secondarySort' tag='SELECT' type='' class='BpkSelect_bpk-select__ZmJkN' aaname='Sort by' /&gt;" Guid="be1f7fe3-5ce9-4794-a041-cf2bcdb0d363" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Cheap flights from Singapore to George Town at Skyscanner' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a01923a4-1a7d-4a31-9232-d372b7fcc1ae" CvTextArea="992, 637, 52, 17" CvTextArgument="Sort by" CvType="Text" DesignTimeRectangle="994, 635, 51, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='app-root' tag='LABEL' type='' class='BpkLabel_bpk-label__NWNlN SecondarySort_label__ZTExM' aaname='Sort by' check:innerText='Sort by' /&gt;" Guid="d3f91c3f-eb3d-410a-bddd-315eaf607f41" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5d548796f4f256af287c5a5a714dc094.png" xmlns="">0HJvewcjJeUSCmxa0oc6otg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

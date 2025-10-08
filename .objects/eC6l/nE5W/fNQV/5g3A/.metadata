@@ -1,0 +1,14 @@
+﻿{
+  "Name": "February",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "5g3AdomTsUeTS2TrVAq2PQ",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/5g3AdomTsUeTS2TrVAq2PQ",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/fNQVHM1Psk2_nrJLW2z47Q",
+  "Created": "2025-01-31T03:32:08.3614937Z",
+  "Updated": "2025-01-31T03:32:08.3614937Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="N3Fucu1kD06C5dwESXqgfA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg" CVScreenId="8b8b2c2a-6871-4948-a1b7-6dd1aef81682" CvTextArea="1176, 782, 15, 17" CvTextArgument="4" CvType="Text" DesignTimeRectangle="1162, 768, 45, 45" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-label='Tuesday, 4 February 2025. Select as departure date' tag='BUTTON' type='button' class='CustomCalendar_day__MzVhY' aaname='4' check:innerText='4' /&gt;" Guid="4c7222fb-8f89-482b-aba0-239ed543651f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Compare Cheap Flights &amp;amp; Book Air Tickets to Everywhere | Skyscanner' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8b8b2c2a-6871-4948-a1b7-6dd1aef81682" CvTextArea="1261, 602, 106, 26" CvTextArgument="February" CvType="Text" DesignTimeRectangle="1263, 598, 104, 30" ElementType="Text" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl type='' class='BpkText_bpk-text__MjhhY BpkText_bpk-text--heading-4__Y2FlY CustomCalendar_MonthName__NDZjZ' tag='H2' aaname='{0}' check:innerText='{0}' /&gt;&quot;, Str_Month)]" Guid="09d1f435-cebe-4198-ba6d-ada34e5729a6" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="606afdc0b60774acb9c5981611ea76ca.png" xmlns="">0nfmW7EFyJU6yWCfvxtZ6AA</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="February" Name="Str_Month" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

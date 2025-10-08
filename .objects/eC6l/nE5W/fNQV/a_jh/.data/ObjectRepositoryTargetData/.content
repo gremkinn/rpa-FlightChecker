@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eEYF4LdIzkeNERs7wnKdgg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg/transport/flights/sins/tron/250706" CVScreenId="33da8ebc-e990-470d-b676-5b281388af7e" CvElementArea="55, 14, 296, 43" CvTextArea="96, 26, 211, 17" CvTextArgument="Cheap flights from *" CvType="Button" DesignTimeRectangle="44, 9, 320, 52" DesignTimeScaleFactor="1.25" ElementType="TabPage" FullSelectorArgument="&lt;ctrl name='Cheap flights from * at Skyscanner - Google*' role='pane' /&gt;&lt;ctrl name='Cheap flights from * at Skyscanner' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Cheap flights from * at Skyscanner - Google*' role='pane' /&gt;&lt;ctrl name='Cheap flights from * at Skyscanner' role='page tab' automationid='' check:fulltext='Close' /&gt;" Guid="fc78b2c4-9e13-409d-b096-e0ebea9da4c5" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Cheap flights from * at Skyscanner - Google*' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d652f6b296e04a8e5c95cd5ced57bdc0.png" xmlns="">0QVeL_s7-Mkuabg8Yn0K3-g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

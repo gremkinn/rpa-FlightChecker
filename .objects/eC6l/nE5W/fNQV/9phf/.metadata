@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Check if web page has loaded",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "9phf-uzxnEyYzAdnGAivSQ",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/9phf-uzxnEyYzAdnGAivSQ",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/fNQVHM1Psk2_nrJLW2z47Q",
+  "Created": "2025-02-03T10:57:42.9316944Z",
+  "Updated": "2025-02-03T10:57:42.9316944Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

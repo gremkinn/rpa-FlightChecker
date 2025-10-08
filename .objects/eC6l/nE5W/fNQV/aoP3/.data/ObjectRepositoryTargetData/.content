@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2qXCgQzzd0KW1jwlnSHB6g" Reference="4VwoZOfONEeexO-qFI1Wvw/aoP3Qn6W3Uuz4_apJAhgrQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg" DesignTimeRectangle="194, 463, 302, 90" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='originInput-label' tag='LABEL' type='' class='AutoSuggest_label__NWU0Y OriginSearchControlGroup_DesktopOriginLabel__NWQyZ' aaname='' check:innerText='From' /&gt;" Guid="37976684-7d25-4623-b4e4-2009e6d1ac0e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Compare Cheap Flights &amp;amp; Book Air Tickets to Everywhere | Skyscanner' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9dc8b1ec-e82d-478a-8d2b-a7e5e3c01398" CvTextArea="212, 554, 42, 15" CvTextArgument="From" CvType="Text" DesignTimeRectangle="214, 482, 262, 25" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='originInput-label' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='originInput-label' tag='SPAN' type='' class='BpkText_bpk-text__MjhhY BpkText_bpk-text--body-default__YzU1M OriginSearchControlGroup_InputLabel__NGFkZ' aaname='From' check:innerText='From' /&gt;" Guid="951e776f-326a-4d41-ace1-3f147dfa6aa2" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="40e4abc5d7e04232681bceba159d4b0e.png" xmlns="">0hNRosnfJd06P6OK2vOJMgg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Month_Name",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Lp54EviA7EGIl37KWEYekQ",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/Lp54EviA7EGIl37KWEYekQ",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/fNQVHM1Psk2_nrJLW2z47Q",
+  "Created": "2025-01-31T03:24:49.1692027Z",
+  "Updated": "2025-01-31T03:25:21.732506Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Use Chatgpt",
+  "Type": "App",
+  "Id": "RZSsUhDlTU2eGFmQLYZRSA",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/RZSsUhDlTU2eGFmQLYZRSA",
+  "Created": "2025-02-03T16:02:38.3906043Z",
+  "Updated": "2025-02-03T16:02:38.3906043Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

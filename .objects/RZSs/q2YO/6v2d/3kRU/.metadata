@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Reload",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "3kRU-tuQ2U-eXgGGZ-K4ow",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/3kRU-tuQ2U-eXgGGZ-K4ow",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/6v2d3B_4VUCwSpzcl-HdRg",
+  "Created": "2025-02-03T16:05:56.9515415Z",
+  "Updated": "2025-02-03T16:05:56.9515415Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

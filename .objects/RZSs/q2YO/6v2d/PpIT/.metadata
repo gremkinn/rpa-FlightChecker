@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Chatgpt Input Field",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "PpITRWTrX0Kiih4WP4OXKw",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/PpITRWTrX0Kiih4WP4OXKw",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/6v2d3B_4VUCwSpzcl-HdRg",
+  "Created": "2025-02-03T16:05:19.0459746Z",
+  "Updated": "2025-02-03T16:07:24.7987756Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

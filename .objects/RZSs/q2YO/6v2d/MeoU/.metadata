@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Chatgpt Lightbox",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "MeoUk-m4ZEOYxTgA1f3CCA",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/MeoUk-m4ZEOYxTgA1f3CCA",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/6v2d3B_4VUCwSpzcl-HdRg",
+  "Created": "2025-02-04T05:05:29.4139029Z",
+  "Updated": "2025-02-04T05:09:21.322894Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

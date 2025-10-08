@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Cheap flights from Singapore to Dubai ",
+  "Type": "Screen",
+  "Id": "oWS6yzOeUUW0iq7M13t8TA",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/oWS6yzOeUUW0iq7M13t8TA",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/nE5WH1Hu0kqH_-oMgsy6iw",
+  "Created": "2025-02-01T10:25:45.372354Z",
+  "Updated": "2025-02-01T10:25:45.372354Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

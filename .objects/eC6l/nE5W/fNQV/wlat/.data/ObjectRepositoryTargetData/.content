@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iKbdzBwWh0aIxfgFFpmEtA" Reference="4VwoZOfONEeexO-qFI1Wvw/wlatskOWH0SehW1bQDBtVg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg" CVScreenId="55a8cc97-aec0-492f-947e-4c015a0dcb1d" DesignTimeRectangle="865, 713, 45, 45" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='BUTTON' class='CustomCalendar_day__MzVhY' omit:parentclass='CustomCalendar_DayContainer__YjcwZ' parentid='app-root' type='button' innertext='{0}' aria-label='{1}' /&gt;&quot;, Str_Day, aria_label_return)]" FuzzyAccuracy="1" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl tag='BUTTON' class='CustomCalendar_day__MzVhY' parentid='app-root' type='button' innertext='{0}' aria-label='{1}' /&gt;&quot;, Str_Day, aria_label_return)]" Guid="cfd3f2f7-8ce0-428b-be2a-d1dcb4e23113" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Compare Cheap Flights &amp;amp; Book Air Tickets to Everywhere | Skyscanner' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="55a8cc97-aec0-492f-947e-4c015a0dcb1d" DesignTimeRectangle="721, 598, 72, 30" ElementType="Text" FuzzyAccuracy="1" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl type='' tag='H2' class='BpkText_bpk-text__MjhhY BpkText_bpk-text--heading-4__Y2FlY CustomCalendar_MonthName__NDZjZ' aaname='{0}' check:innerText='{0}' /&gt;&quot;, Str_Month)]" Guid="8a4e6900-bf73-4c30-a41f-39ada402526e" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="724b14ca9208598f54473b8ce596d1a3.png" xmlns="">03W8yxl-Pi0mfiFX2LjURvw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="3">
+      <ObjectRepositoryVariableData DefaultValue="*" Name="Str_Day" />
+      <ObjectRepositoryVariableData Name="aria_label_return" />
+      <ObjectRepositoryVariableData DefaultValue="*" Name="Str_Month" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

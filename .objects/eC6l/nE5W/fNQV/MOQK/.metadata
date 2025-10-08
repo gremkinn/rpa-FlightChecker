@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Check Left Month",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "MOQKHMN0JUivOWOTslYIpQ",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/MOQKHMN0JUivOWOTslYIpQ",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/fNQVHM1Psk2_nrJLW2z47Q",
+  "Created": "2025-01-31T08:12:30.9451301Z",
+  "Updated": "2025-01-31T08:12:30.9451301Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

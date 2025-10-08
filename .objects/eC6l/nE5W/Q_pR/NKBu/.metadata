@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Flexible on your dates",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "NKBu0c_xDE27G3F7erCy2w",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/NKBu0c_xDE27G3F7erCy2w",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/Q_pRp3WoSE-djc8dzPmexg",
+  "Created": "2025-02-06T11:06:50.1486003Z",
+  "Updated": "2025-02-06T11:06:50.1486003Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

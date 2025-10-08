@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pMIPDmneQUyguWqXIyiPMQ" Reference="4VwoZOfONEeexO-qFI1Wvw/uU0Ee65OS0SvTkal5D57Hg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg/transport/flights/sins/beri/250706/250710" CVScreenId="028ab50a-be2a-4e87-a60f-ca3b52573d6a" CvTextArea="112, 155, 167, 35" CvTextArgument="Skyscanner" CvType="Text" DesignTimeRectangle="59, 152, 219, 35" DesignTimeScaleFactor="1.25" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl tag='path' type='' class='' aaname='' /&gt;" Guid="b1e5a034-56b8-4413-8cfd-0d1133186b32" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Cheap flights from Singapore to Bergen at Skyscanner' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="284, 143, 172, 54" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='skip-link' tag='A' type='' class='BpkSkipLink_bpk-skip-link__MmIxY' aaname='Skip to results' check:innerText='Skip to results' /&gt;" Guid="1a0d300d-aaf9-4b1a-9730-a78db78d745c" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="beee1c6c771c91ad3e7e80413c165648.png" xmlns="">0ButVhinXwUy1J7bQBJgfxA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

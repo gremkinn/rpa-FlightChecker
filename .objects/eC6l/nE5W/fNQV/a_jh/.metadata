@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Close",
+  "Type": "Element",
+  "Id": "a_jhJi_lekSR_XmcJzY_Uw",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/a_jhJi_lekSR_XmcJzY_Uw",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/fNQVHM1Psk2_nrJLW2z47Q",
+  "Created": "2025-02-05T02:46:22.04617Z",
+  "Updated": "2025-02-05T02:46:22.04617Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

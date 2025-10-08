@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <!--CSS Links-->
+    <link rel="stylesheet" href="css/flight_details.css" />
+
+</head>
+<!--Function to load tomorrow's date & restrict past date selection-->
+
+<body style="background-color: #05203C;">
+
+    <div id="body"><br><br>
+
+        <!--Heading-->
+        <h2 style="color: #0062E3;font-family: 'Futura Md BT', sans-serif;font-size: 25px;text-align:center;">One-Way
+        </h2>
+
+        <p class="bodytext" style="text-align: center;padding-left: 15%;padding-right: 15%;">Select the start and end dates you would like to check.</p>
+
+        <form style="padding-left: 15%;padding-right: 15%;">
+
+            <label style='margin-bottom: 0;padding: 5px;' class="bodytext" for="trav_start">Start: </label>
+            <input class='userFormInput' type="date" id="trav_start" name="trav_start" value="dd/mm/yyyy"
+                required><br><br>
+
+            <label style='margin-bottom: 0;padding: 5px;margin-left: 7.5px' class="bodytext" for="trav_end">End:
+            </label>
+            <input class='userFormInput' type="date" id="trav_end" name="trav_end" value="dd/mm/yyyy" required><br><br>
+
+            <button onclick="SubmitValues()" id="submitbutton" type="submit">Submit</button><br><br>
+            <p class="bodytext" style="text-align: center;padding-left: 15%;padding-right: 15%;font-size: smaller;">
+                Right-click the alert and allow blocked content for the form to work.</p>
+
+        </form>
+    </div>
+
+    <script>
+
+        function SubmitValues() {
+
+            var start_date = document.getElementById("trav_start").value;
+            var end_date = document.getElementById("trav_end").value;
+
+            if (!start_date || !end_date) {
+
+                alert("Make sure all details are filled in.")
+
+            } else {
+
+                window.external.setResult(start_date + "," + end_date);
+                return true;
+            }
+
+        }
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PR_fbpiE1UutJvfCMrYcSw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg/transport/flights/sins/no/250706/250710" CVScreenId="7ae9328d-dad8-4d73-bf8a-789d590e5eb9" CvTextArea="192, 490, 780, 42" CvTextArgument="Explore Norway from Sun 06 to Thu 10 July" CvType="Text" DesignTimeRectangle="194, 483, 1530, 50" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='CombinedResultsPlaces' tag='SPAN' type='' class='BpkText_bpk-text__MjhhY BpkText_bpk-text--heading-2__NjVkN' aaname='Explore *' check:innerText='Explore *' /&gt;" Guid="7b243a74-a8c8-402a-bc98-8511a98dd17f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Compare Cheap Flights &amp;amp; Book Air Tickets to Everywhere | Skyscanner' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b45bbb8fa98822f98be847c760cfe6f2.png" xmlns="">0nCAXPYv7zU6cy34KtVq4Fg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

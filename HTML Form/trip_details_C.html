@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <!--CSS Links-->
+    <link rel="stylesheet" href="css/flight_details.css" />
+
+</head>
+<!--Function to load tomorrow's date & restrict past date selection-->
+
+<body style="background-color: #05203C;">
+
+    <div id="body"><br><br>
+
+        <!--Heading-->
+        <h2 style="color: #0062E3;font-family: 'Futura Md BT', sans-serif;font-size: 25px;text-align:center;">Even More
+            Details</h2>
+
+        <p class="bodytext" style="text-align: center;padding-left: 15%;padding-right: 15%;">This is the last page!</p>
+        <br>
+
+        <form style="padding-left: 15%;padding-right: 15%;">
+
+            <div style="text-align: center;">
+                <span style='margin-bottom: 0;padding: 5px;margin-right: 50px;' class="bodytext">Direct flights
+                    only?</span>
+                <input class='Radio' type="radio" name="direct_flight" value="Yes" id="yesRadio" required>
+                <label class="bodytext" style="margin-bottom: 0px;margin-right: 50px;" for="yesRadio">Yes</label>
+
+                <input checked="true" class='Radio' type="radio" name="direct_flight" value="No" id="noRadio" required>
+                <label class="bodytext" style="margin-bottom: 0px;" for="noRadio">No</label>
+            </div><br>
+
+            <label class="bodytext" style="margin-bottom: 0;padding: 5px;" for="cabin_class">Cabin class:
+            </label>
+            <select class='userFormInput' name="cabin_class" id="cabin_class" style="margin-right: 20px;height: 30px;"
+                required>
+                <option value="Economy">Economy</option>
+                <option value="Premium Economy">Premium Economy</option>
+                <option value="Business Class">Business Class</option>
+                <option value="First Class">First Class</option>
+            </select><br><br>
+
+            <label style='margin-bottom: 0;padding: 5px;' class="bodytext" for="num_trav">No. of Travellers:
+            </label>
+            <input class='userFormInput' style="width: 36%;" type="number" id="num_trav" name="num_trav" min="1"
+                value="1" required><br><br>
+
+            <label class="bodytext" style="margin-bottom: 0;padding: 5px;margin-left: 20px;" for="result_type">Results:
+            </label>
+            <select class='userFormInput' name="result_type" id="result_type" style="height: 30px;" required>
+                <option value="Best">Best</option>
+                <option value="Cheapest first">Cheapest</option>
+                <option value="Fastest first">Fastest</option>
+            </select><br><br><br>
+
+            <button onclick="SubmitValues()" id="submitbutton" type="submit">Submit</button><br><br>
+            <p class="bodytext" style="text-align: center;padding-left: 15%;padding-right: 15%;font-size: smaller;">
+                Right-click the alert and allow blocked content for the form to work.</p>
+
+        </form>
+    </div>
+
+    <script>
+
+        function SubmitValues() {
+
+            var direct_yes = document.getElementById("yesRadio").checked;
+            var direct_no = document.getElementById("noRadio").checked;
+            var cabin_class = document.getElementById("cabin_class").value;
+            var num_trav = document.getElementById("num_trav").value;
+            var result_type = document.getElementById("result_type").value;
+
+            if (!direct_yes && !direct_no) {
+
+                alert("Make sure all details are filled in.")
+
+            } else {
+
+                if (direct_yes == true) {
+                    var direct_flight = true;
+                } else if (direct_no == true) {
+                    var direct_flight = false;
+                }
+
+                window.external.setResult(direct_flight + "," + cabin_class + "," + num_trav + "," + result_type);
+                return true;
+            }
+        }
+
+    </script>
+</body>
+
+</html>

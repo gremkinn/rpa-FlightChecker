@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xrTsCv7MhEivvoTB7wZ0pQ" Reference="4VwoZOfONEeexO-qFI1Wvw/-h1X9Sv1oEquoNzUM46tLQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg/transport/flights/sins/ams/250707/250711" DesignTimeRectangle="389, 860, 566, 145" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;a&amp;gt;div&amp;gt;div' parentid='app-root' tag='DIV' /&gt;" FuzzyAccuracy="1" Guid="1eb08123-bc60-4f85-9e95-343303ffc871" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Cheap flights from Singapore to Amsterdam at Skyscanner' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="59, 432, 300, 4149" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' parentid='app-root' tag='DIV' /&gt;" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl type='' parentid='app-root' tag='DIV' class='FlightsDayView_filters__ODc1M' aaname='' /&gt;" Guid="417d4006-5851-4e94-ace1-4f0a2da0d4ba" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="be4dcb8a3ecef2147360840f386f23c7.png" xmlns="">0M3HeU6Ha0k6fyPgKVPZ6Mg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

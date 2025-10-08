@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OflRP7gU_0GQhbMKpGeqtA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg/transport/flights/sins/ams/250707/250711" CVScreenId="90f2f077-0994-41f8-9790-a77fbc2b66b3" DesignTimeRectangle="1642, 375, 156, 45" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='inbound_date' tag='INPUT' /&gt;" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl id='inbound_date' tag='INPUT' type='text' class='BpkInput_bpk-input__Y2ViN' aaname='' /&gt;" Guid="ee6b21cc-021f-4401-84b4-7671f1636d4d" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Cheap flights from Singapore to Amsterdam at Skyscanner' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1556, 384, 26, 26" ElementType="Text" FullSelectorArgument="&lt;webctrl class='DateNudgers_splitter__MzhkN' parentid='flights-search-summary-root' tag='DIV' /&gt;" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl class='DateNudgers_splitter__MzhkN' parentid='flights-search-summary-root' tag='DIV' type='' aaname='•' check:innerText='•' /&gt;" Guid="f3a35d28-8401-4967-9362-d39360a43827" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAB2SURBVEhLY5AzD/gPwqwKNnTBMPsYRi2mNR61GEMBrfCoxRgKaIVHLcZQQCs8ajGGArw4efP/6z/+/////+f/66tKMeXxYIosTtv/FmQrBHw8+78MixpcmCKLB8zHlOBRizEU0AqPWoyhgFZ41GIMBbTCI9diAOmnDga2r9EIAAAAAElFTkSuQmCC" SearchSteps="Selector, FuzzySelector, Image" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3dd9e73a54eec009b97ac1ede8fcc162.png" xmlns="">0bamOJmwBXE6bjxKR4ZPIIA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

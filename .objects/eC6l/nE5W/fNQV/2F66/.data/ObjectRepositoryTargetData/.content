@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TRu-yoeDwkq2cdPR5VRJtg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg" CVScreenId="f3a46476-fbd0-4724-9e40-99490ce00b11" CvTextArea="877, 755, 20, 18" CvTextArgument="17" CvType="Text" DesignTimeRectangle="865, 741, 45, 45" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-label='Saturday, 17 May 2025. Select as return date' tag='BUTTON' type='button' class='CustomCalendar_day__MzVhY' aaname='17' check:innerText='17' /&gt;" Guid="acea5cf3-1631-4f87-9f61-b6b54c3efe6f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Compare Cheap Flights &amp;amp; Book Air Tickets to Everywhere | Skyscanner' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f3a46476-fbd0-4724-9e40-99490ce00b11" CvTextArea="881, 591, 12, 16" CvTextArgument="S" CvType="Text" DesignTimeRectangle="855, 576, 66, 45" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='Saturday' aria-role='gridcell' tag='SPAN' type='' class='CustomCalendar_WeekNames__OWQ0Z' aaname='S' check:innerText='S' /&gt;" Guid="cb5b7ef7-45fa-476e-adae-4c8304875400" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="67b21749ec9daf73bba7076f8cc63fbb.png" xmlns="">0C1JFCY8H-0e1RX-qTEEbqA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

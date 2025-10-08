@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Cheap flights from Singapore to Oslo a(1)",
+  "Type": "Screen",
+  "Id": "j4wz72P230OVMPnHmdu_cQ",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/j4wz72P230OVMPnHmdu_cQ",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/nE5WH1Hu0kqH_-oMgsy6iw",
+  "Created": "2025-02-04T12:29:03.0304557Z",
+  "Updated": "2025-02-04T12:29:03.0304557Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

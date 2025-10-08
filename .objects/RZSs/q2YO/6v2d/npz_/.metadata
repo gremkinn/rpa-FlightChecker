@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Copy Button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "npz_ephYT02IY99wJ9g8qA",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/npz_ephYT02IY99wJ9g8qA",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/6v2d3B_4VUCwSpzcl-HdRg",
+  "Created": "2025-02-05T04:13:01.2027687Z",
+  "Updated": "2025-02-05T09:31:29.5577088Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

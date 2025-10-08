@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Shortcut",
+  "Type": "Element",
+  "Id": "tHYd9kA7pEOBnDj4PnPtVQ",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/tHYd9kA7pEOBnDj4PnPtVQ",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/GRmkAtXl9U-Z69WgHeltSg",
+  "Created": "2025-02-14T15:04:29.5334704Z",
+  "Updated": "2025-02-14T15:04:29.5334704Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

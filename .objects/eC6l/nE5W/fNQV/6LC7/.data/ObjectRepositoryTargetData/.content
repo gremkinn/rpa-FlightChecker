@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HEJnslnDSEuucuRcD9DDHg" Reference="4VwoZOfONEeexO-qFI1Wvw/6LC76HAQLEOf17jASi9Sug" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg" DesignTimeRectangle="501, 463, 302, 90" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl id='destinationInput-label' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl id='destinationInput-label' tag='LABEL' type='' class='AutoSuggest_label__NWU0Y DestinationSearchControlGroup_DesktopDestinationLabel__NWI5N' aaname='' check:innerText='To' /&gt;" Guid="ef99958a-2eb4-4020-9450-757105ae6125" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Compare Cheap Flights &amp;amp; Book Air Tickets to Everywhere | Skyscanner' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b78af0da-9a5c-4cc8-bd46-18a5ae2e39a2" CvTextArea="519, 304, 21, 15" CvTextArgument="To" CvType="Text" DesignTimeRectangle="541, 482, 242, 25" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='destinationInput-label' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='destinationInput-label' tag='SPAN' type='' class='BpkText_bpk-text__MjhhY BpkText_bpk-text--body-default__YzU1M DestinationSearchControlGroup_InputLabel__MjliY' aaname='To' check:innerText='To' /&gt;" Guid="b225e6f1-1ba6-40cb-a67a-b803bb3665b5" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c6b3dabf84a3ea228b1a4b9f6b6cbb96.png" xmlns="">0t1rRiyV5gEKCO9ZpcSPEvg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

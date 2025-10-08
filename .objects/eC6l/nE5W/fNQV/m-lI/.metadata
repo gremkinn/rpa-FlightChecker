@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Button_Departure",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "m-lI_VPNZUaLKi62CQKcxg",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/m-lI_VPNZUaLKi62CQKcxg",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/fNQVHM1Psk2_nrJLW2z47Q",
+  "Created": "2025-01-31T11:10:26.0976Z",
+  "Updated": "2025-01-31T18:01:24.3889653Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

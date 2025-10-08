@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IdlMRE73Fkeuzmi03pFzRg" Reference="4VwoZOfONEeexO-qFI1Wvw/FHYnQ-G6fkiQso5TofiUnQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" Accuracy="1" BrowserURL="skyscanner.com.sg/transport/flights/sins/chc/250702/250801" CVScreenId="3fc87f25-a045-4587-88a0-59eee5dfd73a" DesignTimeRectangle="1798, 302, 60, 60" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;section&amp;gt;nav&amp;gt;div&amp;gt;div&amp;gt;button' idx='2' parentid='flights-search-summary-root' tag='BUTTON' /&gt;" FuzzyAccuracy="1" Guid="bae04a11-ac5e-4019-baa5-0bba1192e015" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Cheap flights from Singapore to Christchurch at Skyscanner' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3fc87f25-a045-4587-88a0-59eee5dfd73a" DesignTimeRectangle="1642, 310, 156, 45" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='outbound_date' tag='INPUT' /&gt;" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl id='outbound_date' tag='INPUT' type='text' class='BpkInput_bpk-input__Y2ViN' aaname='' /&gt;" Guid="963514fa-4993-491c-ac95-81003088bcab" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="922ff6a7e54ac2ea4a781ffcfdf6e671.png" xmlns="">0RVa0Q9tm4Uepm3yTsziYaw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

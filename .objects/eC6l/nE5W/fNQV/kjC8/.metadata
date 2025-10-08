@@ -1,0 +1,14 @@
+﻿{
+  "Name": "skyscanner.com.sgtrans…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "kjC8IUN61kC1xaeWtJsaEQ",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/kjC8IUN61kC1xaeWtJsaEQ",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/fNQVHM1Psk2_nrJLW2z47Q",
+  "Created": "2025-02-04T12:19:45.5619585Z",
+  "Updated": "2025-02-04T12:19:45.5619585Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

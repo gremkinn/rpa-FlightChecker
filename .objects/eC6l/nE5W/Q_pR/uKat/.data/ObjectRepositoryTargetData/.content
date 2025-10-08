@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wUJD5Dp84kCJKCP7_ysUPA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg/transport/flights/sins/ams/250713" DesignTimeRectangle="389, 817, 566, 145" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;a&amp;gt;div&amp;gt;div' parentid='app-root' tag='DIV' /&gt;" FuzzyAccuracy="1" Guid="bb60ea57-6585-431d-aa77-f74a44da7040" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Cheap flights from Singapore to Amsterdam at Skyscanner' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="955, 817, 284, 145" FuzzySelectorArgument="&lt;webctrl type='' class='BpkTicket_bpk-ticket__paper__OWMxO BpkTicket_bpk-ticket__stub__N2Y3N Ticket_stub__YWRmY BpkTicket_bpk-ticket__stub--padded__ZjFhO BpkTicket_bpk-ticket__stub--horizontal__ZjIzZ' parentid='app-root' tag='DIV' aaname='' /&gt;" Guid="b3ec9a18-0158-4e70-9010-e078fc5ee0af" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b9e421308d9ff977da40eb00b461fe5c.png" xmlns="">0QZntO-JGMUe41lEh1IRqzQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

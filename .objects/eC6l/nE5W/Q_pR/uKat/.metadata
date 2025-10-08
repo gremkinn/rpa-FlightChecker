@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Check if flights available",
+  "Type": "Element",
+  "Id": "uKat7Jqxw0mDTvB3ITdMiQ",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/uKat7Jqxw0mDTvB3ITdMiQ",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/Q_pRp3WoSE-djc8dzPmexg",
+  "Created": "2025-02-05T10:24:59.3119264Z",
+  "Updated": "2025-02-05T10:24:59.3119264Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

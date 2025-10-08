@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Explore Norway from Sun…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "elsyo3GevEKS-7kk_nJYsg",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/elsyo3GevEKS-7kk_nJYsg",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/fNQVHM1Psk2_nrJLW2z47Q",
+  "Created": "2025-02-04T11:13:57.8677894Z",
+  "Updated": "2025-02-04T11:13:57.8677894Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

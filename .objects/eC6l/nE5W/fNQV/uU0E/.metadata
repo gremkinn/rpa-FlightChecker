@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Skyscanner Title",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "uU0Ee65OS0SvTkal5D57Hg",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/uU0Ee65OS0SvTkal5D57Hg",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/fNQVHM1Psk2_nrJLW2z47Q",
+  "Created": "2025-02-04T11:06:45.4265727Z",
+  "Updated": "2025-02-04T11:08:24.8099053Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

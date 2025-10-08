@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Cheap flights from Singapore to Trondh",
+  "Type": "Screen",
+  "Id": "Q_pRp3WoSE-djc8dzPmexg",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/Q_pRp3WoSE-djc8dzPmexg",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/nE5WH1Hu0kqH_-oMgsy6iw",
+  "Created": "2025-02-05T03:08:03.581701Z",
+  "Updated": "2025-02-05T03:08:03.581701Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

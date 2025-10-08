@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dmDs3DEKIECldx4Q6pW10Q" Reference="4VwoZOfONEeexO-qFI1Wvw/4YVvKGRoLkK_Lzyn8ywIJA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg" CVScreenId="ffd78b1e-4a42-4350-9f5b-676d25349c53" DesignTimeRectangle="194, 616, 25, 25" DesignTimeScaleFactor="1.25" ElementType="CheckBox" FullSelectorArgument="&lt;webctrl aria-label='Direct flights' tag='INPUT' type='checkbox' /&gt;" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl aria-label='Direct flights' tag='INPUT' type='checkbox' class='BpkCheckbox_bpk-checkbox__input__ZDJiM BpkCheckbox_bpk-checkbox__input-white__NTQyO' aaname='' /&gt;" Guid="6b85acc7-076b-4ddd-b908-894bfb4d8f0f" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Compare Cheap Flights &amp;amp; Book Air Tickets to Everywhere | Skyscanner' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ffd78b1e-4a42-4350-9f5b-676d25349c53" CvElementArea="192, 347, 27, 28" CvTextArea="227, 352, 117, 21" CvTextArgument="Direct flights" CvType="CheckBox" DesignTimeRectangle="194, 613, 150, 30" ElementType="Text" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;label' idx='3' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' class='BpkCheckbox_bpk-checkbox__Mzg1Y BpkCheckbox_bpk-checkbox--white__YTliZ' tag='LABEL' aaname='' check:innerText='Direct flights' /&gt;" Guid="f6b047e0-da40-4bb1-94a9-119c0168cc6b" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="17dd94f7061cf165ff0eca5d7f3049b6.png" xmlns="">00c9_FwsNskGT7ggDchEC9Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

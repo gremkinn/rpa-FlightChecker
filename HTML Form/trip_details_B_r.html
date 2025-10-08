@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <!--CSS Links-->
+    <link rel="stylesheet" href="css/flight_details.css" />
+
+</head>
+<!--Function to load tomorrow's date & restrict past date selection-->
+
+<body style="background-color: #05203C;">
+
+    <div id="body"><br><br>
+
+        <!--Heading-->
+        <h2 style="color: #0062E3;font-family: 'Futura Md BT', sans-serif;font-size: 25px;text-align:center;">Round-Trip
+        </h2>
+
+        <p class="bodytext" style="text-align: center;padding-left: 15%;padding-right: 15%;">Select the start and end
+            dates you would like to check. The trip duration, including flying days, must be equal to or less than the
+            selected time period. </p>
+
+        <form style="padding-left: 15%;padding-right: 15%;">
+
+            <label style='margin-bottom: 0;padding: 5px;' class="bodytext" for="trav_start">Start: </label>
+            <input class='userFormInput' type="date" id="trav_start" name="trav_start" value="06/07/2025"
+                required><br><br>
+
+            <label style='margin-bottom: 0;padding: 5px;margin-left: 7.5px' class="bodytext" for="trav_end">End:
+            </label>
+            <input class='userFormInput' type="date" id="trav_end" name="trav_end" value="12/07/2025" required><br><br>
+
+            <label style='margin-bottom: 0;padding: 5px;' class="bodytext" for="trip_duration">Trip Duration (no. of
+                days):</label>
+            <input class='userFormInput' style="width: 20%;margin-right: 18px;" type="number" id="num_days" value="5"
+                name="trip_duration" required><br><br><br>
+
+            <button onclick="SubmitValues()" id="submitbutton" type="submit">Submit</button><br><br>
+            <p class="bodytext" style="text-align: center;padding-left: 15%;padding-right: 15%;font-size: smaller;">
+                Right-click the alert and allow blocked content for the form to work.</p>
+
+        </form>
+    </div>
+
+    <script>
+
+        function SubmitValues() {
+
+            var start_date = document.getElementById("trav_start").value;
+            var end_date = document.getElementById("trav_end").value;
+            var trip_duration = document.getElementById("num_days").value;
+
+            if (!start_date || !end_date || !trip_duration) {
+
+                alert("Make sure all details are filled in.")
+
+            } else {
+
+                window.external.setResult(start_date + "," + end_date + "," + trip_duration);
+                return true;
+            }
+
+        }
+
+    </script>
+</body>
+
+</html>

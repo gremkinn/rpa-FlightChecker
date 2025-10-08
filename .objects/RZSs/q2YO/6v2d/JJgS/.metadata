@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Enter button",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "JJgSZ9jV5kCt-4wlloattQ",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/JJgSZ9jV5kCt-4wlloattQ",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/6v2d3B_4VUCwSpzcl-HdRg",
+  "Created": "2025-02-04T05:22:07.0338434Z",
+  "Updated": "2025-02-04T08:52:10.2467471Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

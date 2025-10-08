@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Button_Return",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "wlatskOWH0SehW1bQDBtVg",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/wlatskOWH0SehW1bQDBtVg",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/fNQVHM1Psk2_nrJLW2z47Q",
+  "Created": "2025-01-31T18:02:19.1855605Z",
+  "Updated": "2025-01-31T18:02:36.0294622Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

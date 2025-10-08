@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7-Vtf3YdM0qxhwOUM_1JyA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg/transport/flights/sins/ams/250706/250710" CVScreenId="c27c8079-7099-4963-a500-6d2b70277c49" CvTextArea="821, 489, 273, 22" CvTextArgument="Create a new Price Alert" CvType="Text" DesignTimeRectangle="659, 483, 600, 35" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;section&amp;gt;div&amp;gt;div&amp;gt;h2' parentid='price-alerts-modal' tag='H2' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' parentid='price-alerts-modal' tag='H2' class='BpkText_bpk-text__NDNiZ BpkText_bpk-text--lg__MmExZ LoginPrompt_LoginPrompt__header__ZDY4Z' aaname='Create a new Price Alert' check:innerText='Create a new Price Alert' /&gt;" Guid="2860b10a-e4c3-4f01-820b-7ce1c77cf79a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Cheap flights from Singapore to Amsterdam at Skyscanner' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="826, 304, 265, 143" ElementType="Icon" FullSelectorArgument="&lt;webctrl id='Layer_1' tag='svg' /&gt;" FuzzySelectorArgument="&lt;webctrl id='Layer_1' tag='svg' type='' class='LoginPrompt_LoginPrompt__illustration__MDhjY' aaname='' check:text='.st0{fill:none;stroke:#cddff8;stroke-width:.94;stroke-linecap:round;stroke-linejoin:round}.st4{fill:#111236}.st5{fill:#c4806d}.st6{fill:#eff0f6}.st7{fill:#b26a57}.st8{fill:#a15d50}.st10{fill:#444560}.st12,.st14{fill:none;stroke:#cbddf6;stroke-width:.94;stroke-linecap:round;stroke-linejoin:round}.st14{stroke:#1a1e4f}.st16{fill:#ffb75c}.st23{fill:none;stroke:#111236;stroke-width:.47;stroke-linecap:round;stroke-linejoin:round}.st25{fill:none;stroke:#252b62;stroke-width:.94;stroke-miterlimit:10}.st27{fill:#0770e3}' /&gt;" Guid="ee03bdb0-42ff-4145-ad00-903fd69436ac" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d1b11ee1f7815dafc241e537b397340c.png" xmlns="">0YorWPzGXqkyzFC5b8wOw9Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

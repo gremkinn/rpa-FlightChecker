@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Stay logged out",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "02DWTzFu_Uel2BTqpfRcTw",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/02DWTzFu_Uel2BTqpfRcTw",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/6v2d3B_4VUCwSpzcl-HdRg",
+  "Created": "2025-02-04T05:06:12.2325082Z",
+  "Updated": "2025-02-04T05:06:12.2325082Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

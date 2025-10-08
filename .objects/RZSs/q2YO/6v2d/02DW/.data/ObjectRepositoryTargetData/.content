@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UEfGVYke00WmcBN-Rqp1mg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="chatgpt.com" CVScreenId="d11731c7-d99a-4956-bcc3-de8992991d30" CvTextArea="897, 782, 142, 21" CvTextArgument="Stay logged out" CvType="Text" DesignTimeRectangle="900, 776, 138, 28" DesignTimeScaleFactor="1.375" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='radix-:rb:' tag='A' type='' class='cursor-pointer font-semibold text-token-text-secondary underline sm:text-sm' aaname='Stay logged out' check:innerText='Stay logged out' /&gt;" Guid="b9ddb914-0e29-4aad-990d-c92c1e51afa4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ChatGPT' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="919fab92282939b6ac2434cbbe36a55d.png" xmlns="">0lx4OoN-6PkaCIB7_f0QWkA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

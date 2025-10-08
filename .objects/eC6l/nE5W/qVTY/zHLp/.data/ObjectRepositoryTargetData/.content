@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jNVKqSX-CU2GJ4SGJgwZZw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg" CVScreenId="d60b1593-2b56-4dd6-aed0-0e0fd7dbfce8" CvTextArea="826, 577, 82, 17" CvTextArgument="Add date" CvType="Text" DesignTimeRectangle="828, 571, 220, 30" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Add date' parentid='app-root' tag='SPAN' type='' class='BpkText_bpk-text__MjhhY BpkText_bpk-text--body-default__YzU1M SearchControlButton_placeholder__NmYzY' check:innerText='Add date' /&gt;" Guid="f7e09bd8-1958-4d76-a5e4-05ba4c86830c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Compare Cheap Flights &amp;amp; Book Air Tickets to Everywhere | Skyscanner' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="808, 528, 260, 90" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-label='Select departure date' tag='BUTTON' type='button' class='SearchControlButton_SearchControlBtn__YzUyO SearchControlButton_DesktopBtn__NzM1Z' aaname='DepartAdd date' check:innerText='Depart&amp;#xA;Add date' /&gt;" Guid="77724ed8-6647-4296-9bad-b2877bc269a0" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ae2a8e3ff95123bad7862e0c8eb5a15d.png" xmlns="">0r-50lMVlJU2ZcZfCwh4oQg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

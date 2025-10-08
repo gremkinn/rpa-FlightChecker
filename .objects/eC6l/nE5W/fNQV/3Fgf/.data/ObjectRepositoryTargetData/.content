@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IraVTe0eykG38RQAwkx5Yw" Reference="4VwoZOfONEeexO-qFI1Wvw/3Fgf_S1wMEeNkACjIcfPaQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg" DesignTimeRectangle="105, 66, 43, 43" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Compare Cheap Flights &amp;amp; Book Air Tickets to Everywhere | Skyscan*' role='pane' /&gt;&lt;ctrl name='Reload' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Compare Cheap Flights &amp;amp; Book Air Tickets to Everywhere | Skyscan*' role='pane' /&gt;&lt;ctrl name='Reload' role='push button' automationid='' check:text='Reload' /&gt;" Guid="e0bc4857-5196-43f9-8715-88c921d4e74b" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Compare Cheap Flights &amp;amp; Book Air Tickets to Everywhere | Skyscan*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="308a7e4f-9aab-4ff4-8728-69163cb5d049" CvTextArea="202, 79, 146, 21" CvTextArgument="skyscanner.com.sg" CvType="Text" DesignTimeRectangle="159, 66, 1553, 43" FullSelectorArgument="&lt;ctrl name='Compare Cheap Flights &amp;amp; Book Air Tickets to Everywhere | Skyscan*' role='pane' /&gt;&lt;ctrl idx='3' role='grouping' /&gt;" Guid="caefc0fe-9fe8-42d5-9212-d281f75467f3" ImageBase64="" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3a7d7137ff30a931c433bea5239280de.png" xmlns="">0x-u2W34wS0e76C5Lxt_PCA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

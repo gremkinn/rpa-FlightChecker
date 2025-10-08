@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3VsSVPjrHU-Xv1Bz_V4pEQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg/transport/flights/sins/sag/250728/250801" CVScreenId="92e1a252-113b-4a1a-a28c-de8d740498f9" CvTextArea="519, 592, 587, 27" CvTextArgument="Sorry. there aren't any flights that match your filters." CvType="Text" DesignTimeRectangle="520, 589, 587, 30" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl type='' parentid='app-root' tag='SPAN' class='' aaname='Sorry, there aren&amp;apos;t any flights that match your .' check:innerText='Sorry, there aren&amp;apos;t any flights that match your filters.' /&gt;" Guid="c01553f2-b084-4435-b952-e825df9b5488" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Cheap flights from Singapore to Shirdi at Skyscanner' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="704, 652, 219, 70" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl type='' parentid='app-root' tag='svg' class='WideNoResultsIcon_container__YWE1Z' aaname='' /&gt;" Guid="9e753cd0-abc7-46ce-aa44-bda418947e09" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1aa1d60af695a5f129e68597c9d70f2a.png" xmlns="">0RGrVG83CBUmtKUE0BY4Nbg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-s0DpRpQSkup29Q1f3DFGw" Reference="4VwoZOfONEeexO-qFI1Wvw/6Dl3WmmQV0uoGjqwGadr6A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg" CVScreenId="6438bd0e-b3d2-40bd-8fe9-74e2c7d19212" DesignTimeRectangle="542, 529, 30, 30" DesignTimeScaleFactor="1.25" ElementType="Icon" FullSelectorArgument="&lt;webctrl class='BpkIcon_bpk-icon--rtl-support__MzcwM' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;button&amp;gt;span&amp;gt;svg' parentclass='BpkButton_bpk-button__OTE4Z bpk-button--primary CustomCalendar_PrevBtn__NmY4M CustomCalendar_NotAllowedCursor__NmM3Y' parentid='app-root' tag='svg' /&gt;" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl class='BpkIcon_bpk-icon--rtl-support__MzcwM' type='' parentid='app-root' tag='svg' parentclass='BpkButton_bpk-button__OTE4Z bpk-button--primary CustomCalendar_PrevBtn__NmY4M CustomCalendar_NotAllowedCursor__NmM3Y' aaname='' /&gt;" Guid="c1c0d527-770d-465c-bc54-e38eec38d4f9" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Compare Cheap Flights &amp;amp; Book Air Tickets to Everywhere | Skyscanner' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4a09ebd3af7be02c9305a31ad297b701.png" xmlns="">0gavyWs8HwUu_gYox7-f-Kg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Specific dates",
+  "Type": "Element",
+  "Id": "RCXIuXJge06VDD4k_M91RQ",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/RCXIuXJge06VDD4k_M91RQ",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/fNQVHM1Psk2_nrJLW2z47Q",
+  "Created": "2025-01-31T05:49:47.1551733Z",
+  "Updated": "2025-01-31T05:49:47.1551733Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

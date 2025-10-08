@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="z7icCTNGc0acn_E7acFW7Q" Reference="4VwoZOfONEeexO-qFI1Wvw/d6K4EtUeD06Z6tQBpsAXUw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg/transport/flights/sins/gps/250706/250710" CVScreenId="abf3316a-2f0f-454f-8337-42703b7ea3b7" CvTextArea="519, 592, 587, 28" CvTextArgument="Sorry. there aren't any flights that match your filters." CvType="Text" DesignTimeRectangle="520, 589, 587, 30" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl type='' parentid='app-root' tag='SPAN' class='' aaname='Sorry, there aren&amp;apos;t any flights that match your .' check:innerText='Sorry, there aren&amp;apos;t any flights that match your filters.' /&gt;" Guid="fbb2b25d-ec34-482b-8de3-c194655186bb" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Cheap flights from *' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d49d071ec3b557ff4d40bc10816e11aa.png" xmlns="">0gx2o5vGUc0CJ5MZyvCiKag</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

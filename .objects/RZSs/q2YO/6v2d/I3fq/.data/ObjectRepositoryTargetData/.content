@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ECS3VQS7TEWp1ymg-m3FDA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="chatgpt.com" CVScreenId="b862da66-22a0-478f-938e-12a7a099f23c" DesignTimeRectangle="961, 767, 16, 18" DesignTimeScaleFactor="1.375" ElementType="Icon" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;button&amp;gt;svg&amp;gt;path' tag='path' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' tag='path' class='' aaname='' /&gt;" Guid="93c8672f-9977-4885-a468-299dea024c60" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAFNSURBVDhP7dS/qoJQHAfwXqVajRBEUHIKdGiLBBeHXkEEcWpq6Q0cClrsNRqiIFzEIWgQIhIR3+F7OQeUPCfCuBcuXO7wRfj9+XDgqJ1ut4ufTIctfDe/A/q+j6IooOs612PTCgzDEGVZwnEcrsemFbjb7Sjoui7XY/MPvs4fBU3ThOd56Pf73NA7cDgcYrlcQlGUJrjf7+nSdrtFr9drBRLsdDrR3mq1aoLz+Zx+XqS5Xq8b6CtwMBjgeDzS+vV6haZpTZDEtm3keU6HNptNjbIgwQ6HA61dLheMRqPa4C7FsixkWdZAn8FnLEkSqKra2OdAktlshsfjUaPVz2GxWNRYHMeQZZnbfQmSTKdT3O93ulyduHpGUQRJkridtyDJZDLB7XajSJXz+QxRFLnZViCJYRhI05Ri5FbJq8LOfASSjMdjBEEAQRC4Hpsv+hQUuTMAFNIAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amsterdam 2025 Itinerary' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b862da66-22a0-478f-938e-12a7a099f23c" CvTextArea="959, 765, 20, 22" CvTextArgument="J" CvType="Text" DesignTimeRectangle="947, 754, 44, 44" ElementType="Button" FuzzySelectorArgument="&lt;webctrl type='' tag='BUTTON' class='cursor-pointer absolute z-10 rounded-full bg-clip-padding border text-token-text-secondary border-token-border-light right-1/2 translate-x-1/2 bg-token-main-surface-primary w-8 h-8 flex items-center justify-center bottom-5' aaname='' /&gt;" Guid="2b9f1c25-4378-4037-a1b7-7106ce3b2e69" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="693c9102583371e7bd1177b9bdad6f67.png" xmlns="">0VmeUW_VLyUehhKy9XlVzzg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

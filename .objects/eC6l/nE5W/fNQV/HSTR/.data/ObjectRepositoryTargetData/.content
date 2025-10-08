@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jUZnmcGkWUy7UJ1QpRNtBQ" Reference="4VwoZOfONEeexO-qFI1Wvw/HSTRRuwCCEm8R1qEVilW-w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg" CVScreenId="cafadfef-4729-42fc-a531-35cb3d2336fc" DesignTimeRectangle="214, 507, 262, 26" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='originInput-input' tag='INPUT' type='text' class='AutoSuggest_input__ZjdlO' placeholder='Country, city or airport' aaname='From' /&gt;" Guid="ee436d61-a00b-4eae-88e6-523dbbb0e26a" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Compare Cheap Flights &amp;amp; Book Air Tickets to Everywhere | Skyscanner' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="194, 463, 302, 90" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='originInput-label' tag='LABEL' type='' class='AutoSuggest_label__NWU0Y OriginSearchControlGroup_DesktopOriginLabel__NWQyZ' aaname='' check:innerText='From' /&gt;" Guid="b8de7df6-f33c-49b9-866a-94973663ec95" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a09bf0ebf79816b2449aef49bfe1b19e.png" xmlns="">0BhxHLiRqZUOfGLxOucUG0A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

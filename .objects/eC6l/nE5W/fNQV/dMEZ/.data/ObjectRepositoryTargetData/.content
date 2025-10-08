@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KNHOI55tIEawtCa6qIzsqg" Reference="4VwoZOfONEeexO-qFI1Wvw/dMEZI_w7h0i3WO_8OOHUYQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg/transport/flights/sins/ams/250707/250711" CVScreenId="c7ab6290-6a67-48c0-9858-d64c3ed52395" DesignTimeRectangle="1642, 310, 156, 45" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='outbound_date' tag='INPUT' /&gt;" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl id='outbound_date' tag='INPUT' type='text' class='BpkInput_bpk-input__Y2ViN' aaname='' /&gt;" Guid="85500b72-505a-4b6b-b950-8b61b07a7d17" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Cheap flights from *' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c7ab6290-6a67-48c0-9858-d64c3ed52395" DesignTimeRectangle="59, 302, 1513, 60" ElementType="Button" FullSelectorArgument="&lt;webctrl id='flights-search-summary-button' tag='BUTTON' /&gt;" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl id='flights-search-summary-button' tag='BUTTON' type='button' class='BpkButton_bpk-button__MzAyN BpkButton_bpk-button--secondary-on-dark__Yjg2N App_searchDetailContainer__NWNkO' aaname='*' /&gt;" Guid="3c729c05-f873-4780-883c-d5336bce1d48" ImageBase64="" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7f9fed816ed9d2bec35cb52c3fff5abb.png" xmlns="">0mI-kv2HlhEKKfps8E8dtgg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

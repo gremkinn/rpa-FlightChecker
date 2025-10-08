@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CIeS0UYhgEygG2MLMStKsw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg/transport/flights/sins/tpet/250706/250712" CVScreenId="494b2c4d-7a73-4f0b-bf5b-082f2480f525" CvElementArea="1860, 271, 26, 27" CvType="CloseButton" DesignTimeRectangle="1858, 269, 30, 30" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-label='OK' tag='BUTTON' type='button' class='BpkCloseButton_bpk-close-button__default__NTE3Y BpkCloseButton_bpk-close-button__ZTM2M' aaname='OK' /&gt;" Guid="6956e1ec-e0e6-4372-b1fb-451c8e95b5b9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Cheap flights from Singapore to Taipei at Skyscanner' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1508, 299, 400, 92" FuzzySelectorArgument="&lt;webctrl parentid='flex-dates-info-popover' tag='DIV' type='' class='' aaname='' check:innerText='Explore different dates to find cheaper flights' /&gt;" Guid="4d1d9ff3-4218-47d9-8c3f-62f5468761c1" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1d1e0a64fa6801b4c206dfffaa572d46.png" xmlns="">0Nrr9x21O1E-4M75l43VtFg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

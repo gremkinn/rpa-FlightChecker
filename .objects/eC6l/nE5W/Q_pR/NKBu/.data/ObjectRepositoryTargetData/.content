@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dsDOXJ21S02wHosNPgBolA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg/transport/flights/sins/tpet/250708/250713" CVScreenId="44ad057c-cbc6-4a8f-875e-ef0ba58e0494" CvTextArea="1526, 340, 213, 18" CvTextArgument="Flexible on your dates?" CvType="Text" DesignTimeRectangle="1528, 334, 210, 30" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl id='bpk-popover-label-flex-dates-info-popover' tag='H2' /&gt;" FuzzySelectorArgument="&lt;webctrl id='bpk-popover-label-flex-dates-info-popover' tag='H2' type='' class='BpkText_bpk-text__NzE3M BpkText_bpk-text--label-1__YTBkN' aaname='Flexible on your dates?' check:innerText='Flexible on your dates?' /&gt;" Guid="28f1497a-6408-4fee-8449-fdbc878f45c1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Cheap flights from Singapore to Taipei at Skyscanner' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="cfe15b04394ee9780c60e1f03c53b39f.png" xmlns="">0pcU-4qpSHkSfHWpwZgShLg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

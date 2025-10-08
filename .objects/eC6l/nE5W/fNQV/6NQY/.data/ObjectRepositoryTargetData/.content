@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_F8RS3EJN0uyKGLUqLKxRg" Reference="4VwoZOfONEeexO-qFI1Wvw/6NQYELzCs0Wx5q61Th7zow" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" Accuracy="1" BrowserURL="skyscanner.com.sg" CVScreenId="df60a597-0f1d-4442-b0cd-dd4ee43e0b16" DesignTimeRectangle="612, 598, 20, 20" DesignTimeScaleFactor="1.25" ElementType="Icon" FullSelectorArgument="&lt;webctrl parentid='popoverContainer' tag='svg' /&gt;" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl parentid='popoverContainer' tag='svg' type='' class='' aaname='' /&gt;" Guid="d8349daa-1c74-4e53-82a6-0c0b38b29bcb" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAD6SURBVEhL7ZA9ioUwFEbfKtyInYWFgr2NFqKloFi7ABs3YOUK7F2K4CoELUQQf75HAl7m5TkTZ5hhGg8Eki/33kPywB/zEIPf5hZIuQVS/k9QFAXKshTjN+q6RlVVYkycCtq2haIofCVJgnVdxRKexXFMdU3TiCWcU8G2bfB9n5odx8E0TXTP9q7r0r2u61iW5WXGwamAwRqCIKAhhmGg6zr0fQ/Lsig3TRPDMIjtxKcCBnvJx29QVRWaptHZtm2M4yi2vfClgLHvO6IooqHH8jwP8zyL5W9IBQwmSdOUhodhyF93hUuCgzzPkWUZF17lW4KfcAuk3AIpTw/vjk+bjt/EAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Compare Cheap Flights &amp;amp; Book Air Tickets to Everywhere | Skyscanner' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="df60a597-0f1d-4442-b0cd-dd4ee43e0b16" DesignTimeRectangle="529, 588, 113, 40" ElementType="Button" FullSelectorArgument="&lt;webctrl aria-role='checkbox' tag='BUTTON' /&gt;" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl aria-role='checkbox' tag='BUTTON' type='button' class='BpkSelectableChip_bpk-chip__OWZlN BpkSelectableChip_bpk-chip--default__MDRlZ ChipDropdown_chip__MWI3Y' aaname='Click to select calendar type' /&gt;" Guid="b0dedaa1-48d2-4b25-8bf6-4e2c5abab955" ImageBase64="" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="85b487d77c0ae521705b8bbc220a4f59.png" xmlns="">0MyS9PWCNZkSaWvvhG3tS2A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

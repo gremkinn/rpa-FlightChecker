@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fZdWULHppki00bGQuruR3g" Reference="4VwoZOfONEeexO-qFI1Wvw/BXtMXA1j-E2IwaDjwJ5AKA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg/transport/flights/sins/ams/250706/250710" CVScreenId="de6ff917-93c2-4e27-a5fd-3f0f9aafdcdd" DesignTimeRectangle="951, 437, 288, 45" DesignTimeScaleFactor="1.25" ElementType="DropDown" FullSelectorArgument="&lt;webctrl id='secondarySort' tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='secondarySort' tag='SELECT' type='' class='BpkSelect_bpk-select__ZmJkN' aaname='Sort by' /&gt;" Guid="99208c33-0403-4b2e-a323-b1e30fb19891" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Cheap flights *' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="de6ff917-93c2-4e27-a5fd-3f0f9aafdcdd" CvTextArea="890, 522, 51, 17" CvTextArgument="Sort by" CvType="Text" DesignTimeRectangle="896, 450, 50, 20" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='app-root' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='app-root' tag='LABEL' type='' class='BpkLabel_bpk-label__NWNlN SecondarySort_label__ZTExM' aaname='Sort by' check:innerText='Sort by' /&gt;" Guid="d63e4b7e-157d-40cd-9879-feee62e46eca" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f86f6d4abc0f2bd39e8601ba07d4d416.png" xmlns="">0WOHhRflOjEexicHc-V2hOA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

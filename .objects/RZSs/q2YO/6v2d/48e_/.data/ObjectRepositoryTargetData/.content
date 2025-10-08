@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uxRhvyKtOk2k4eoCgYNWIQ" Reference="4VwoZOfONEeexO-qFI1Wvw/48e_F17GA0WOrd0SecyC6w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="chatgpt.com" CVScreenId="0dcd3291-a02c-4c1a-b264-26169dbd2ff6" CvElementArea="516, 728, 29, 29" CvType="Icon" DesignTimeRectangle="519, 730, 24, 25" DesignTimeScaleFactor="1.375" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl class='icon-md-heavy' tag='svg' type='' aaname='' /&gt;" Guid="d96ab927-8ba3-40d1-a861-a4e001dac2d3" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABwAAAAdCAYAAAC5UQwxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGkSURBVEhL7Zbfy8FgFMf9KyzlxhW5VCguNlypJbfKjyJ2u4tFlFKY5YISdyIk+//O23OK7Dkb29v2Xry5+LQ6O9999rTnx0LhcBj+khBfCJqv0HdcC4vFImw2G7jf72Ca5ltYz2q1gkwmQ57jSpjL5VyJeK7XKyQSCe9CTdPwAcPhEPL5vCsWiwVmOp2Od+FyucSwKIrknhPVahUzo9HIUnclNAzDs1CWZcyMx2NL3VaYTqdBVVWYz+fI+XzG8Hq9ftYeTKdTaLVaEI1GfyfMZrNwu93IBPjEbDaDSCTiXcjemjX2+30yEewoFAqw2+0wUy6XvQuPxyM2JpNJS/0dvV4PM68z0rXwdDphI79+3tHtdjHDro/aV/jEL2GtVsPaYDCw9Poq1HUd2u02st/vsVav14MT8my3W4jFYsEJHyNsNpsgSRIIgkB6fRW+fkMniPBwOGA4lUqRZicURcEMGx1/j4cI2WbMwpPJhGxjdlQqlefuVCqViICHCNlvweVyIRPgE+xFXzdvJ4iQEY/HodFo4AnAH0c8bGF7OSdthUHy/4U//ICGFaxwR80AAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='chrome.exe' title='1 Week Haugesund Itinerary' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="505, 716, 973, 52" FuzzySelectorArgument="&lt;webctrl type='' class='mb-2 flex gap-3 empty:hidden -ml-2' tag='DIV' aaname='' /&gt;" Guid="2e94073a-3fe2-46f2-99b0-7c7eba77facf" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d6aa1e63e70879fb19b6a1db24c1d78f.png" xmlns="">0qJewspLZJUyZHxPmYiRkgg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

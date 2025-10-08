@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7_CwrKdOC0KNLsNHh0PvQw" Reference="4VwoZOfONEeexO-qFI1Wvw/JJgSZ9jV5kCt-4wlloattQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="chatgpt.com" CVScreenId="79c65b18-34c6-4c89-98dc-9939095691d6" DesignTimeRectangle="1434, 922, 44, 44" DesignTimeScaleFactor="1.375" ElementType="Icon" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl type='' parentid='composer-background' tag='svg' class='icon-2xl' aaname='' /&gt;" Guid="b0674eef-60c9-42a6-be71-2f5227b9a6b8" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAI8SURBVGhD7ZrbisIwFEX7R14RBX0UfRC8I+L1QfD/v+AMO5CSniZt7UlqM/iwwGlue41tmqYm3W6XpIzHY5rP57TZbOh8PtPz+aTX60Xv91uBzziGMtRBXbTh/dQh4QeqggCr1Yru93sa9FPQFn1IZD4WmM1mdDwec2GkoE/0zccro7LAaDSi/X6fG9g3GANj8fFdVBLAOWue06HBWBiT57BRKoCLjg/QFBib5+E4Bfr9Pp1Op1ynTYMMyMLzFQqgAaY83tm3QBaXhFWgDf95DjLxnFaBb57zZdiuiYwArnzeqG3w2SkVwNzb5FRZF2Q07xOpQBM3KV8ga0YAt3Beqe3oZYcSCLG2AbfbTcGP+wCZlQBWgrzQB7vdjjqdjgKfebkPkD3BcpYXSDHDaw6HQ66eFGRPJOt5G7bwob4JZE/4QQlF4UNJeBPYbre5sC58SngRWK/XmYBYeGGa039Pp1Pq9XqZOhDm/dRBLMDDDwYDNXUuFov0GD5fLhcl5ltCJICZxRYeZVwAx1CGOmYb6T1IJICFlQ4yHA4zOxQ2AYA6poRZVgeRwPV6pclkos73x+ORKXMJAEigDdpK79QigSKKBHzyE3DxE6jIT8DFT6Ai3pfTmiYE1HI6xAMNMAWWy2Wu3AfqgSbUIyV20rRAqG1K9UgZ8qEeSw3pUsFF+lD/L7ZVot/YAtFvLYKoN3c1UW+va6J+wQGif8WkJdrwTdR6yWfyzWvCds5zSgVA1C+6NVH/1MCkbT/2+AP1gI3fnBkCVQAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Hi and response' /&gt;" SearchSteps="FuzzySelector, Image" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="79c65b18-34c6-4c89-98dc-9939095691d6" DesignTimeRectangle="463, 842, 974, 33" FullSelectorArgument="&lt;webctrl parentid='prompt-textarea' tag='P' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='prompt-textarea' tag='P' type='' class='placeholder' aaname='' /&gt;" Guid="8f9cd44d-30d5-46de-8638-2a29aa89c897" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="bd2760fcbae08bff9a2276d16a548d7a.png" xmlns="">0sx_hYkL8gEOEesTOPD5eog</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

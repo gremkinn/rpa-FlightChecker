@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Qh_rlvZggEylofTjlDUKEQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="chatgpt.com" CVScreenId="d11731c7-d99a-4956-bcc3-de8992991d30" CvTextArea="856, 416, 223, 30" CvTextArgument="Welcome back" CvType="Text" DesignTimeRectangle="860, 408, 218, 44" DesignTimeScaleFactor="1.375" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='radix-:rb:' tag='P' type='' class='mb-1 text-center text-2xl font-semibold' aaname='Welcome back' check:innerText='Welcome back' /&gt;" Guid="56774df4-082d-4506-8859-79900f2ffebf" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ChatGPT' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d11731c7-d99a-4956-bcc3-de8992991d30" CvTextArea="794, 465, 349, 30" CvTextArgument="Log in or sign up to get smarter" CvType="Text" DesignTimeRectangle="794, 465, 349, 29" ElementType="Text" Guid="7c91c5b1-e1a2-4621-a0f6-b41281256f27" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a9cca08bf41bf7d3eed4a4a1f4f7ece7.png" xmlns="">0wSCJiiDICE6I0AkjAWXmDg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

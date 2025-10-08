@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Cheap flights from Singapore to Tromso",
+  "Type": "Screen",
+  "Id": "1RGP5Piq-0KkxAqJVaFadg",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/1RGP5Piq-0KkxAqJVaFadg",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/nE5WH1Hu0kqH_-oMgsy6iw",
+  "Created": "2025-02-04T20:05:37.6179481Z",
+  "Updated": "2025-02-04T20:05:37.6179481Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

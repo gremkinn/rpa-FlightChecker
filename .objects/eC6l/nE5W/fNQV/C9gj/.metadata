@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click on Depart",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "C9gjfoeQMUC_1UNtUQqxrw",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/C9gjfoeQMUC_1UNtUQqxrw",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/fNQVHM1Psk2_nrJLW2z47Q",
+  "Created": "2025-01-30T17:59:39.68503Z",
+  "Updated": "2025-01-30T17:59:39.68503Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

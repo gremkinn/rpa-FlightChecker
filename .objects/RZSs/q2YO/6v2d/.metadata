@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Use Chatgpt",
+  "Type": "Screen",
+  "Id": "6v2d3B_4VUCwSpzcl-HdRg",
+  "Reference": "4VwoZOfONEeexO-qFI1Wvw/6v2d3B_4VUCwSpzcl-HdRg",
+  "ParentRef": "4VwoZOfONEeexO-qFI1Wvw/q2YOAooOHEOWGScb7yXwzw",
+  "Created": "2025-02-03T16:02:38.4191461Z",
+  "Updated": "2025-02-03T16:02:38.4191461Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

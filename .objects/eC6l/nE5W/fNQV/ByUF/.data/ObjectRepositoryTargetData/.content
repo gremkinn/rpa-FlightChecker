@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nY5r8WThH0qqAAz6P_lM-g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg/transport/flights/sins/no/250706/250710" DesignTimeRectangle="9, 443, 1899, 1957" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl id='CombinedResultsPlaces' tag='DIV' /&gt;" Guid="a1d3a7ba-be08-4de8-a133-2840f6df2614" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Compare Cheap Flights &amp;amp; Book Air Tickets to Everywhere | Skyscanner' /&gt;" SearchSteps="Selector" Version="V5">
+      <imageRef attrName="InformativeScreenshot" originalValue="f86948dbf91df991f568748020199122.png" xmlns="">0K9FcLsTycUm-LFK7cGrqkg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ClickTrigger</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

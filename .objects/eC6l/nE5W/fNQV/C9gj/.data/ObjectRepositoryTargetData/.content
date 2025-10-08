@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iB5A84OhC0WEBkPYeyTF2Q" Reference="4VwoZOfONEeexO-qFI1Wvw/C9gjfoeQMUC_1UNtUQqxrw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.sg" DesignTimeRectangle="808, 463, 260, 90" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Depart*' parentid='app-root' tag='BUTTON' /&gt;" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl aaname='Depart*' parentid='app-root' tag='BUTTON' type='button' class='SearchControlButton_SearchControlBtn__YzUyO SearchControlButton_DesktopBtn__NzM1Z' /&gt;" Guid="27b119ba-ea95-466c-bf50-40367c8bfed6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Compare Cheap Flights &amp;amp; Book Air Tickets to Everywhere | Skyscanner' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d09c571a-0513-4ce9-b47b-395eb3202a3d" CvTextArea="826, 486, 58, 18" CvTextArgument="Depart" CvType="Text" DesignTimeRectangle="828, 481, 220, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Depart' parentid='app-root' tag='SPAN' type='' class='BpkText_bpk-text__MjhhY BpkText_bpk-text--body-default__YzU1M SearchControlButton_label__NTdkZ' check:innerText='Depart' /&gt;" Guid="3c34387a-add9-4a0b-b240-9e73d27e0283" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="136d109ff7a1500c8da3aa302236ea9e.png" xmlns="">0YUMlM3dASkyl16uSuGwOrQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
